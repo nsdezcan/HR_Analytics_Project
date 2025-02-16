@@ -12,7 +12,7 @@ Bu proje, **İnsan Kaynakları (HR) analitiği** üzerine geliştirilmiş bir **
 1. **Power BI Desktop'u indirin ve kurun** (Eğer henüz kurmadıysanız) [Microsoft Power BI](https://powerbi.microsoft.com/) adresinden edinebilirsiniz.
 2. **Bu repoyu klonlayın**:
    ```sh
-   git clone https://github.com/kullaniciadi/hr-analytics-powerbi.git
+   git clone https://github.com/nsdezcan/HR_Analytics_Project.git
    ```
 3. **Power BI dosyasını açın (`Hrproje_last_15_02_2025.pbix`)**.
 4. **Veri kaynaklarının doğru şekilde bağlı olduğundan emin olun.** Gerekirse, bağlantıları güncelleyin.
@@ -45,5 +45,5 @@ Projeye katkıda bulunmak istiyorsanız:
 Herhangi bir soru veya öneriniz varsa, benimle iletişime geçebilirsiniz!
 
 ---
-**Hazırlayan:** [Nuriye Dezcan](https://github.com/kullaniciadi)
+**Hazırlayan:** [Nuriye Dezcan](https://github.com/nsdezcan)
 
